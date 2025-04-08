@@ -7,7 +7,7 @@ Repo Latex MA2016
 Para clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone <URL_del_repositorio>
+git clone https://github.com/Diego785xd/Template-MA2026
 ```
 
 ## Requisitos y Configuración en VS Code
